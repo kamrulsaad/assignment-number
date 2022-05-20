@@ -72,7 +72,7 @@ export default function App() {
         )
       )}
       <p style={{color: 'white', fontSize: '12px', position: 'absolute', top: 0, right:0, textAlign: 'end', padding: '2px'}}>According to the 8th edition of the book.
-      All the best. <br/> All rights reserved by Mamun'30 & Saad'41 </p>
+      All the best. <br/> All rights reserved by Mamun'30 & Saad'41 (Batch-50, UITS) </p>
     </div>
   );
 }
