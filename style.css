@@ -5,11 +5,11 @@
 }
 
 .header-text{
-  padding: 40px 0;
-  text-align: center; 
+  padding: 40% 0;
   background-image: linear-gradient(purple, blue);
   background-repeat: no-repeat; 
   height: 100vh;
+  text-align: center; 
 }
 
 .input-field{
