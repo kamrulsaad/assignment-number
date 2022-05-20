@@ -71,6 +71,8 @@ export default function App() {
           <p className="final-result">You have to do problem No: {problemNo}</p>
         )
       )}
+      <p style={{color: 'white', fontSize: '12px', position: 'absolute', bottom: 0, right:0, textAlign: 'end', padding: '2px'}}>According to the 8th edition of the book.
+      All the best. <br/> All rights reserved by Mamun'30 & Saad'41 </p>
     </div>
   );
 }

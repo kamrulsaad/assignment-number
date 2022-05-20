@@ -38,3 +38,12 @@
   font-size: 1.2rem;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+@media all and (max-width: 440px){
+  .input-field{
+    width: 90%;
+  }
+  .submit-btn{
+    width: 90%;
+  }
+}
