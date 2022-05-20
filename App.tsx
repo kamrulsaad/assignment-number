@@ -58,7 +58,7 @@ export default function App() {
         <input
           type="text"
           required
-          placeholder="Exercise No. (e.g: 1.1 / 1.3)"
+          placeholder="Exercise No. (e.g: 1.3)"
           className="input-field"
           name="exercise"
         />
@@ -71,7 +71,7 @@ export default function App() {
           <p className="final-result">You have to do problem No: {problemNo}</p>
         )
       )}
-      <p style={{color: 'white', fontSize: '12px', padding: '2px', marginTop: "20%"}}>According to the 8th edition of the book.
+      <p style={{color: 'white', fontSize: '12px', padding: '2px', marginTop: "10%"}}>According to the 8th edition of the book.
       All the best. <br/> All rights reserved by Mamun'30 & Saad'41 (Batch-50, UITS) </p>
     </div>
   );
