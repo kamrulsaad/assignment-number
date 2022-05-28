@@ -37,6 +37,9 @@ export default function App() {
       case '1.7':
         totalMathNo = 44;
         break;
+      case '2.1':
+        totalMathNo = 51;
+        break;
       default:
         setError('Invalid Input');
     }
